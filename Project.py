@@ -1,5 +1,6 @@
 # Angel Raul Alba-Perez
-# sass
+# Identity Crisis
 
-Pname = input("what are you doing here? Wait, what was your name?")
-print("well" Pname "do you know who your talking to?")
+Identity = input("Please state your name.")
+print =  ("We have a few questions for you, to check your mental capasity.")
+#this is were the math problems start
